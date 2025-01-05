@@ -24,5 +24,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yuvrajrajbanshi&icon=7&color=11)](https://visitcount.itsvg.in)
-
+![snake gif](https://github.com/YuvrajRajbanshi/YuvrajRajbanshi/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
